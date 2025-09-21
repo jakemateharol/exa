@@ -6,7 +6,7 @@ spring:
     url: jdbc:mysql://localhost:3304/ms_curso?useSSL=false&serverTimezone=UTC
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: 124578369scar@
+    password: 
 
   jpa:
     hibernate:
